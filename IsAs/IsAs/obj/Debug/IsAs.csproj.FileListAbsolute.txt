@@ -1,0 +1,7 @@
+C:\Users\home\Desktop\c#\IsAs\IsAs\bin\Debug\IsAs.exe.config
+C:\Users\home\Desktop\c#\IsAs\IsAs\bin\Debug\IsAs.exe
+C:\Users\home\Desktop\c#\IsAs\IsAs\bin\Debug\IsAs.pdb
+C:\Users\home\Desktop\c#\IsAs\IsAs\obj\Debug\IsAs.csprojAssemblyReference.cache
+C:\Users\home\Desktop\c#\IsAs\IsAs\obj\Debug\IsAs.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\c#\IsAs\IsAs\obj\Debug\IsAs.exe
+C:\Users\home\Desktop\c#\IsAs\IsAs\obj\Debug\IsAs.pdb
